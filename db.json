@@ -1,0 +1,78 @@
+{
+    "users": [
+        {
+            "email": "ajit@test.com",
+            "password": "12345",
+            "name": "ajit",
+            "id": 1
+        },
+        {
+            "email": "amit@test.com",
+            "password": "12345",
+            "name": "amit",
+            "id": 2
+        }
+    ],
+    "posts": [
+        {
+            "title": "Hello World",
+            "url": "https://media0.giphy.com/media/2zDYXnOBe8EKY/giphy.gif?cid=988a61dfjzq830x6ago4x5gly5svso1mr1wesmblj1dmxu40&rid=giphy.gif&ct=g",
+            "id": 1
+        },
+        {
+            "title": "Go TO Delhi",
+            "url": "https://media0.giphy.com/media/EB1qoLwcNT192iLio6/giphy.gif?cid=988a61dfmtcq9ftfimhihlcap0m1mhj96udjpm2s76ljlk0k&rid=giphy.gif&ct=g",
+            "id": 2
+        },
+        {
+            "title": "Gym",
+            "url": "https://media4.giphy.com/media/zIOdLMZDcBDc2gk6vV/giphy.gif?cid=988a61df1e302hl60r3yjh8g7ej4jcqvgb9lq8jwkly5zm02&rid=giphy.gif&ct=g",
+            "id": 3
+        },
+        {
+            "title": "angry",
+            "url": "https://media3.giphy.com/media/3o9bJX4O9ShW1L32eY/giphy.gif?cid=988a61df5rxlvxppaenqao053z0pugxedmv0kcqk9640mglp&rid=giphy.gif&ct=g",
+            "id": 4
+        },
+        {
+            "title": "Not Good",
+            "url": "https://media0.giphy.com/media/fDbzXb6Cv5L56/giphy.gif?cid=988a61dfz69z1g4vwauxa5p6u18kz0e0xf00ob1stsg37y8p&rid=giphy.gif&ct=g",
+            "id": 5
+        },
+        {
+            "title": "go ",
+            "url": "https://media3.giphy.com/media/2bUpP71bbVnZ3x7lgQ/giphy.gif?cid=988a61dflgkplbi8ntqp8ie1vwkzj59z7mqm5rmoh1tvmjg9&rid=giphy.gif&ct=g",
+            "id": 6
+        },
+        {
+            "title": "Sad",
+            "url": "https://media4.giphy.com/media/ckGndVa23sCk9pae4l/giphy.gif?cid=988a61dfcs04xyaotw6atfxxfz2x4lsqki3iul63fydg9bs8&rid=giphy.gif&ct=g",
+            "id": 7
+        },
+        {
+            "title": "hi",
+            "url": "https://media0.giphy.com/media/5FDfOtafB4Gnwr9dBm/giphy.gif?cid=988a61dflf6zj5jamegu0tbba52qiavj83nvk1xk5ljnq4oh&rid=giphy.gif&ct=g",
+            "id": 8
+        },
+        {
+            "title": "go",
+            "url": "https://media2.giphy.com/media/9pZw57AyqOHy47oSZq/giphy.gif?cid=988a61df49iww8xwwponul5f3xyp4oeai63r87z0cks3tbme&rid=giphy.gif&ct=g",
+            "id": 9
+        },
+        {
+            "title": "Go",
+            "url": "https://media0.giphy.com/media/fvwgoiKH77WfqnnJ6K/giphy.gif?cid=988a61dfzimez9131hb21kyllxyfga9dgjnvf68z3yld5zas&rid=giphy.gif&ct=g",
+            "id": 10
+        },
+        {
+            "title": "dskfjlds",
+            "url": "https://media2.giphy.com/media/JPCLA1wAeyb7jNpEgl/giphy.gif?cid=988a61dfcucegr8vlzhjmxye8tqfwbjdrlxi4qbhjt0ip9ck&rid=giphy.gif&ct=g",
+            "id": 11
+        },
+        {
+            "title": "fdkljd",
+            "url": "https://media0.giphy.com/media/ObMgPPY24jfYgQrrxA/giphy.gif?cid=988a61dfzimez9131hb21kyllxyfga9dgjnvf68z3yld5zas&rid=giphy.gif&ct=g",
+            "id": 12
+        }
+    ]
+}
